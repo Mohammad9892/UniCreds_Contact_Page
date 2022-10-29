@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-29T19:19:15 IST" name="Default suite" finished-at="2022-10-29T19:19:28 IST" duration-ms="13162">
+    <groups>
+    </groups>
+    <test started-at="2022-10-29T19:19:15 IST" name="Default test" finished-at="2022-10-29T19:19:28 IST" duration-ms="13162">
+      <class name="Test_Scenario.UniCreds_Contact_Test">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:15 IST" name="beforetest" finished-at="2022-10-29T19:19:25 IST" duration-ms="10051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="Email()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:25 IST" name="Email" finished-at="2022-10-29T19:19:25 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Email -->
+        <test-method is-config="true" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:25 IST" name="getTestResult" finished-at="2022-10-29T19:19:25 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Email status=SUCCESS method=UniCreds_Contact_Test.Email()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method signature="Message()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:25 IST" name="Message" finished-at="2022-10-29T19:19:26 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Message -->
+        <test-method is-config="true" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="getTestResult" finished-at="2022-10-29T19:19:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Message status=SUCCESS method=UniCreds_Contact_Test.Message()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method signature="Name()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="Name" finished-at="2022-10-29T19:19:26 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Name -->
+        <test-method is-config="true" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="getTestResult" finished-at="2022-10-29T19:19:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Name status=SUCCESS method=UniCreds_Contact_Test.Name()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method signature="Phone()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="Phone" finished-at="2022-10-29T19:19:26 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Phone -->
+        <test-method is-config="true" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="getTestResult" finished-at="2022-10-29T19:19:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Phone status=SUCCESS method=UniCreds_Contact_Test.Phone()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method signature="Submit()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="Submit" finished-at="2022-10-29T19:19:26 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+        <test-method is-config="true" signature="getTestResult(org.testng.ITestResult)[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="getTestResult" finished-at="2022-10-29T19:19:26 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Submit status=SUCCESS method=UniCreds_Contact_Test.Submit()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestResult -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:Test_Scenario.UniCreds_Contact_Test@5ab956d7]" started-at="2022-10-29T19:19:26 IST" name="aftertest" finished-at="2022-10-29T19:19:28 IST" duration-ms="1517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- Test_Scenario.UniCreds_Contact_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

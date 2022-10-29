@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Test_Scenario.UniCreds_Contact_Test">
+        <methods>
+          <include name="Phone"/>
+          <include name="Email"/>
+          <include name="getTestResult"/>
+          <include name="aftertest"/>
+          <include name="beforetest"/>
+          <include name="Message"/>
+          <include name="Submit"/>
+          <include name="Name"/>
+        </methods>
+      </class> <!-- Test_Scenario.UniCreds_Contact_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
